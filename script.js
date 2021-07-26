@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Michael",
+    poem: "Roses are red \n Violets are blue \n This is a photo \n Of stars that I found on wikepedia",
+    image: "night-sky.jpeg"
+  },
+  {
     author: "Katie",
     poem: "Worker bees can leave. \n Even drones can fly away \n The Queen is their slave",
     image: "tyler.jpg",
