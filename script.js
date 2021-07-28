@@ -17,6 +17,7 @@ const poems = [
   {
     author: "Andrei",
     poem: "Roses are red \n Github is hard \n Please end my suffering \n I wanna drink beers in my yard",
+    imagee: "yard-party.jpg",
   },
   {
     author: "Michael",
@@ -32,7 +33,7 @@ const poems = [
   {
     author: "Anonymous",
     poem: "Bowl - A Haiku by Anon Moist good afternoon \n A large, silly bowl \n bounces watching the chicken",
-    image: "Grilled-chicken-burrito-bowls-10.jpeg",
+    image: "Grilled-chicken-burrito-bowls-10.jpg",
   }
 ];
 
