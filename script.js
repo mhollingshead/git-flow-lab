@@ -17,7 +17,7 @@ const poems = [
   {
     author: "Andrei",
     poem: "Roses are red \n Github is hard \n Please end my suffering \n I wanna drink beers in my yard",
-    imagee: "yard-party.jpg",
+    image: "yard-party.jpg",
   },
   {
     author: "Michael",
